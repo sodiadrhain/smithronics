@@ -1,27 +1,34 @@
-## Laravel PHP Framework
+<p align="center"><img src="https://res.cloudinary.com/haazniz3y/image/upload/v1598462786/Screenshot_545_baipq3.png" width="400"></p>
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+</p>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+## App Screenshots
+<p align="center"><img src="https://res.cloudinary.com/haazniz3y/image/upload/v1598462786/Screenshot_552_kswogo.png" width="400"></p>
+<p align="center"><img src="https://res.cloudinary.com/haazniz3y/image/upload/v1598462786/Screenshot_551_rhdiuk.png" width="400"></p>
+<p align="center"><img src="https://res.cloudinary.com/haazniz3y/image/upload/v1598462786/Screenshot_549_vdi5pj.png" width="400"></p>
+<p align="center"><img src="https://res.cloudinary.com/haazniz3y/image/upload/v1598462784/Screenshot_546_ner5mg.png" width="400"></p>
+<p align="center"><img src="https://res.cloudinary.com/haazniz3y/image/upload/v1598462784/Screenshot_547_pd2npa.png" width="400"></p>
+<p align="center"><img src="https://res.cloudinary.com/haazniz3y/image/upload/v1598462785/Screenshot_550_rlcqft.png" width="400"></p>
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
 
-## Official Documentation
+## About this Application
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+ Smithronics is an ecommerce web app made for creating a better life for people with quality electronics and household appliances at affordable price that will make people smile always. Users can buy items and pay installmentally, they can choose payment to be daily, weekly, monthly , I did:
+- All backend features.
+- Also used some templating and worked on the Frontend.
+- App was built using Laravel.
 
-## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+## How to test
 
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+- Live url can be found in repository description.
+- It can also be tested by simply clonning this repository
+- Make sure you have PHP and Composer installed locally
+- Run composer install in folder directory
+- Generate a app key by using `php artisan key:generate`
+- Now you can start the appliaction run `php artisan serve`
+- Visit `localhost:8000` to see app running
